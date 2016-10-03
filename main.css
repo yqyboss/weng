@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+body{
+	overflow:-Scroll;
+	overflow-x:hidden;}	
+#mainpic{
+	background:url(2.jpg) no-repeat;
+    filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=‘scale’)";
+	-moz-background-size:100% 100%;
+	-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	overflow:hidden;
+	}
+#firstul{
+	list-style:none;
+	float:right;
+	}
+li{
+	margin:10px;
+	padding:5px;
+	display:inline-block;
+	color:#FFF;
+	
+	}
+#thefirst{
+	height:700px;}
+	
+
+#firsttext{
+	color:white;
+	text-align:center;
+	margin:20px;}
+
+#circle1{
+	clear:both;
+    margin:0 auto;
+	width:100px;
+	height:100px;
+	background-color:rgba(192,192,192,0.5);
+	border-color:#FFF;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	border-radius:50px;}
+p,h1,h2{
+	line-height:30px;}
+h1,h2{
+	line-height:50px;}
+#thesecond{
+	height:700px;
+	background-color:rgba(250,250,250,0.5);
+	}
+
+#thethird{
+	height:700px;
+	background-color:#333;}
+	
+#secondtext{
+	
+	color:white;
+	position:relative;
+	top:10%;
+	left:40%;}
+#thirdtext{
+	color:white;
+	position:relative;
+	top:10%;
+	left:10%;}
+#thefourth{
+	height:700px;
+	background-color:#FFF;
+	}
+#forthtext{
+	text-align:center;
+	position:relative;
+	top:10%;
+	color:#000;
+	}
+#thefifth{
+	height:700px;
+	background:url(timg.jpg);
+	 filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=‘scale’)";
+	-moz-background-size:100% 100%;
+	-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	}
+#fifthtext{
+	color:#FFF;
+	margin:0 auto;
+	position:relative;
+	left:50%;
+	top:10%;
+	padding:20px;
+	
+	}
+#thesixth{
+	background-color:#FFF;
+	height:700px;
+	color:black;}
+#sixthtext{
+	padding:20px;
+	}
+#theseventh{
+	height:1500px;
+	background:url(4719038.jpg);
+	 filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=‘scale’)";
+	-moz-background-size:100% 100%;
+	-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	}
+#div1{
+	height:300px;
+	background-color:rgba(250,250,250,0.5);
+	text-align:center;}
+#div1 p{
+	color:white;}
+#div2{
+	background-color:#FFF;}
+#form1{
+	position:relative;
+	left:10%;
+	height:500px;
+	display:inline-block;
+	width:80%;
+	border:3px solid #FF0;
+	padding:40px 20px;
+	background-color:#FFF;
+	margin-top:30px;
+	}
+
+#message{
+	width:80%;
+	height:100px;
+	border:2px solid red;
+	}
+.textbox{
+	height:30px;
+	border:2px solid red;}
+#btn{
+	height:30px;
+	width:80px;
+	border:2px solid red;
+	background-color:#F00;
+	}
+#div3{
+	background-color:#666;}
+#div3 span{
+	display:inline-block;
+	color:#CCC;
+	padding:30px;
+	}
+	
+.btn1{
+	width:150px;
+	height:50px;
+	color:#CCC;
+	border:1px solid #FFF;
+    background:transparent;
+	margin:20px;
+	}
+.btn1:hover{
+	color:#FFF;}
+#span1{
+}
+#span2{
+	position:relative;
+	left:30%}
+#span2 a{
+	text-decoration:none;
+	color:#CCC;}
+#span2 a:hover{
+	color:#FFF;}
+
+#div31,#div32{
+	text-align:center;
+	margin:20px;
+	color:#CCC;}
+#div32{
+	height:500px;}
+	
+
+#click1{
+	text-align:center;
+	position:relative;
+	top:40%;}
+#click2{
+	text-align:center;
+	position:relative;
+	top:60%;
+	}
+#click3{
+    text-align:center;
+	position:relative;
+	top:60%;}
+#click4{
+	text-align:center;
+	position:relative;
+	top:70%;}
+#click5{
+	text-align:center;
+	position:relative;
+	top:50%;}
+#click6{
+	text-align:center;
+	position:relative;
+	top:50%;}
+	
+.allclick{
+	background-color:transparent;
+	color:#FFF;
+	border:none;
+	font-size:24px;
+	}
+	
+#click44,#click66{
+	color:#666;}
